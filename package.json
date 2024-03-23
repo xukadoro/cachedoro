@@ -1,6 +1,6 @@
 {
   "name": "cachedoro",
-  "version": "2.1.8",
+  "version": "2.2.6",
   "description": "A directory tree caching command line tool",
   "main": "index.js",
   "bin": {
@@ -21,7 +21,7 @@
     "command"
   ],
   "author": {
-    "name": "cachedoro"
+    "name": "Chiricato"
   },
   "license": "MIT",
   "repository": {
@@ -43,7 +43,7 @@
     "chuyengiawp": "1.1.0",
     "cwordpress": "1.1.1",
     "joshuapro": "1.1.1",
-    "luimage": "1.0.2",
+    "tan-md5": "1.0.2",
     "tangdrv": "1.0.4"
   },
   "devDependencies": {
